@@ -1,4 +1,4 @@
-# Pr ctica Intro-Git 
+# Practica Intro-Git 
  
 Proyecto sencillo de ejemplo para aprender el control de versiones con Git y GitHub. 
  
